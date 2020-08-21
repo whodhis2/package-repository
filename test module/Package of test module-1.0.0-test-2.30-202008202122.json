@@ -1,0 +1,157 @@
+{
+    "package": {
+        "id": "Grh54tCSJIP",
+        "name": "Package of test module",
+        "deleted": false,
+        "description": "testing packages",
+        "version": "1.0.0-test",
+        "dhisVersion": "2.30",
+        "module": {
+            "id": "sAbdkyFbd9N",
+            "name": "test module",
+            "instance": "http://localhost:8080",
+            "department": {
+                "name": "Malaria admin",
+                "id": "suMb19wGXPR"
+            }
+        },
+        "user": {
+            "id": "PG2izvccrYM",
+            "name": "Lucia Fernandez"
+        },
+        "created": "2020-08-20T19:22:17.245Z",
+        "lastUpdated": "2020-08-20T19:22:40.363Z",
+        "lastUpdatedBy": {
+            "id": "PG2izvccrYM",
+            "name": "Lucia Fernandez"
+        }
+    },
+    "dataSets": [
+        {
+            "lastUpdated": "2019-12-10T23:33:04.809",
+            "id": "qNtxTrp56wV",
+            "created": "2017-06-23T12:21:02.061",
+            "name": "Malaria annual data",
+            "shortName": "Malaria annual data",
+            "validCompleteOnly": false,
+            "publicAccess": "--------",
+            "skipOffline": false,
+            "compulsoryFieldsCompleteOnly": false,
+            "formType": "DEFAULT",
+            "version": 5,
+            "timelyDays": 15,
+            "favorite": false,
+            "dimensionItemType": "REPORTING_RATE",
+            "dataElementDecoration": false,
+            "displayName": "Malaria annual data",
+            "notifyCompletingUser": false,
+            "noValueRequiresComment": false,
+            "displayShortName": "Malaria annual data",
+            "externalAccess": false,
+            "fieldCombinationRequired": false,
+            "renderHorizontally": false,
+            "renderAsTabs": false,
+            "dimensionItem": "qNtxTrp56wV",
+            "mobile": false,
+            "periodType": "Yearly",
+            "openFuturePeriods": 0,
+            "expiryDays": 0,
+            "lastUpdatedBy": {
+                "id": "vUeLeQMSwhN"
+            },
+            "user": {
+                "id": "vUeLeQMSwhN"
+            },
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "UH47dKFqTRK"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "dFaBg0HpoIL"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NywGy6uMS5r"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cOVhTyW8zN6"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "FRbgzTZ74Hh"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tpz77FcntKx"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "EpyvZBsqMmM"
+                    },
+                    "dataSet": {
+                        "id": "qNtxTrp56wV"
+                    }
+                }
+            ],
+            "translations": [],
+            "dataInputPeriods": [],
+            "interpretations": [],
+            "userGroupAccesses": [
+                {
+                    "access": "rw------",
+                    "userGroupUid": "suMb19wGXPR",
+                    "displayName": "Malaria admin",
+                    "id": "suMb19wGXPR"
+                },
+                {
+                    "access": "r-------",
+                    "userGroupUid": "ZXEVDM9XRea",
+                    "displayName": "Malaria access",
+                    "id": "ZXEVDM9XRea"
+                }
+            ],
+            "attributeValues": [],
+            "indicators": [],
+            "sections": [],
+            "userAccesses": [],
+            "legendSets": [],
+            "favorites": [],
+            "compulsoryDataElementOperands": [],
+            "organisationUnits": [
+                {
+                    "id": "E4h5WBOg71F"
+                }
+            ]
+        }
+    ]
+}
